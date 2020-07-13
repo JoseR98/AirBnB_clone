@@ -20,4 +20,4 @@ This project is about the development of a web static Airbnb clone webpage. For 
 
 ## Preview of the static web
 ---
-<img src="/images/Preview.PNG" border="0">
+<img src="/images/Preview.png" border="0">
