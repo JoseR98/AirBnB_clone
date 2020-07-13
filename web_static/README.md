@@ -18,6 +18,3 @@ This project is about the development of a web static Airbnb clone webpage. For 
 * How to compute CSS Specificity Value
 * What are Box properties in CSS
 
-## Preview of the static web
----
-<img src="/images/Preview.PNG" border="0">
